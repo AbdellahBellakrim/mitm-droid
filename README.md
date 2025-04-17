@@ -123,6 +123,10 @@ objection --gadget com.zsystems.retailers explore -s "android sslpinning disable
 - Make sure your Android device and computer are on the same network
 - Verify that the app is actually using certificate pinning
 
+## Resources
+https://www.youtube.com/watch?v=N5CkIjtwCiY
+https://github.com/frida/frida/releases
+
 ## Security Notice
 
 This setup should only be used for legitimate security research, debugging, or educational purposes. Always respect applicable laws and terms of service.
