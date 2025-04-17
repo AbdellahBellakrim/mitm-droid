@@ -124,8 +124,8 @@ objection --gadget com.zsystems.retailers explore -s "android sslpinning disable
 - Verify that the app is actually using certificate pinning
 
 ## Resources
-https://www.youtube.com/watch?v=N5CkIjtwCiY
-https://github.com/frida/frida/releases
+- https://www.youtube.com/watch?v=N5CkIjtwCiY
+- https://github.com/frida/frida/releases
 
 ## Security Notice
 
